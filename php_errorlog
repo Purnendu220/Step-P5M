@@ -1,0 +1,2 @@
+[26-Oct-2020 05:24:17 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/stepsc2.sg-host.com/public_html/beta/application/controllers/admin/Map.php on line 18
+[26-Oct-2020 05:27:18 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/stepsc2.sg-host.com/public_html/beta/application/controllers/admin/Map.php on line 18
